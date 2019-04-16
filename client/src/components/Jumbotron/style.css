@@ -1,0 +1,18 @@
+.jumbotron {
+    width: 100%;
+    min-height: 300px;
+    padding-top: 100px;
+    margin: 0px;
+    margin-bottom: 5%;
+    display: table;
+    padding: 180px 20px;
+    color: teal;	    
+    text-shadow:
+		-1px -1px 0 whitesmoke,
+		1px -1px 0 whitesmoke,
+		-1px 1px 0 whitesmoke,
+		1px 1px 0 whitesmoke;
+    background-image: url("https://www.abc.net.au/radionational/image/6472494-3x2-940x627.jpg");
+    background-size: cover;
+	background-attachment: fixed;
+}
